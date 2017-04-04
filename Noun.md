@@ -15,6 +15,57 @@
 
 接下來我們就要針對每種名詞，來進行詳細的說明。
 
+## 不可數名詞用法
+
+### 常見的不可數名詞
+
+
+|   weather     |  advice 建議        | work 工作  |
+| :------------- |:-------------| :-----|
+|   traffic 交通    |     music 音樂     | fun 樂趣 |
+|   equipment 設備    |  laughter 笑        | behavior 行為 |
+|   stuff 東西    |    evidence 證據      | knowledge 知識 |
+|   information 資訊   |    news 新聞      | exercise 運動  |
+
+
+另外一類大部份都為總稱、集合用法
+
+|    scenery 景色   |  poetry 詩集       |  jewelry 珠寶 |
+| :------------- |:-------------| :-----|
+|    advertising 廣告   |   clothing 衣服       | peasantry 農民 |
+|    machinery 機器   |    ancestry 祖先      | merchandise 商品 |
+|    furniture 家具   |     baggage 行李     | produce 農產品 |
+
+### 不可數名詞前面不可以加 a(n)，但可以加 the
+
+### 不可數名詞沒有複數形
+
+### 不可數名詞前面可以加上計量單位
+
+|    a piece of paper   |  a piece of chalk 一隻粉筆        | a piece of news 一則新聞  |
+| :------------- |:-------------| :-----|
+|   a piece of information   |  a piece of cake       | a loaf of bread 一條麵包 |
+|  a cup of coffee     |   a glass of water     | a bottle of ink 一瓶墨水 |
+|  a lump of sugar 一塊糖    |   a grain of rice 一粒米      | a some of money 一筆錢 |
+|  a tube of toothpaste 一隻牙膏    |   a piece of work      | a jar of jam 一罐果醬 |
+|   a cake of soap 一塊肥皂   |         | |
+
+### 不可數名詞前面可加一些數量詞
+不可數名詞前面可以加如下面的數量詞
+
+
+|   數量詞     |  解釋     | |
+| :------------- |:-------------|:-------------|
+|   little    |     一點點 (有否意義)    | There is little milk left in the bottle   (瓶子裡沒有多少牛奶)| 
+|   a little   |    少量的      | There is a little milk left in the bottle. (瓶子裡還有一些牛奶) |
+|   some   |     一些     | 
+|    much  |     很多     | Is there much food in the refrigerator ? (冰箱裡有很多食物嗎?) |
+|   a lot of   |     大量 ; 許多 (正式)     | 
+|   lots of  |     大量 ; 許多     | 
+
+> 注意 :   little < a little < quite a little
+
+
 ## 普通名詞的用法 (可數)
 
 ### 普通名詞的單數不能單獨使用，必須加上『冠詞』或所有格、前限詞等連用
@@ -393,3 +444,9 @@ compasses => 指南針
 |   cloth (布)  | cloths ()衣服 |
 |   glass (杯)  | glasses 眼鏡 |
 |   wood (木頭)  | woods (樹林) |
+
+> 補充 :
+> 
+> * clothing 為集合名詞，永遠單數，可用 much、little 修飾
+> * cloths 可以用 many cloths
+> * many (可數)、 much (不可數)
