@@ -242,7 +242,7 @@ need to / learn to / want to / ask someone to / tell someone to / decide to .
 
 > 感官V + Ving : 強調正在進行
 > 
-> 感官V + Vr : 表示整個過程
+> 感官V + Vr : 強調曾經發生的事
 > 
 > 感官V + Ved : 被動
 
