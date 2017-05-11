@@ -284,5 +284,19 @@ do / get / buy / make (度(ga)八妹)
 choose / cook / save /fetch / find / leave / order / prick /reserve
 ```
 
+## 意志動詞
+這種類型的動詞有以下四類。
+* 建議 : `suggest`, `propose`
+* 要求 : `desire`, `demand`, `require`, `request`
+* 命令 : `order`
+* 規定 : `rule`
 
+這種類形的動詞之後接`that`子句作受詞時，that 子句中主詞之後恆接`should`，且可省略，所以後面接原形動詞。
 
+```
+我要求他離開前把工作做完。
+I demanded that he (should) finish the work before leaving.
+
+我們老師規定我們要準時交作業。
+My teacher ruled that we (should) hand in our assignments on time.
+```
