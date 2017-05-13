@@ -380,7 +380,7 @@ I was able to swim 200 meters yesterday.
 ```
 ### 重要句型
 
-> S + cannot(help) but + Vr. => `被迫…、不得不…`
+> S + cannot(help) but + Vr. => `被迫…、不得不…`、`認不住`
 > 
 > = S + cannot help + Ving.
 
@@ -390,6 +390,13 @@ Mark情不自禁愛上Mary
 
 =
 Mark cannot help falling in love with Mary.
+```
+
+```
+每當我聽到這則笑話，就忍不住笑出來。
+Whenever I hear the joke. I cannot help laughing.
+= Whenever I hear the joke. I cannot help but laugh.
+= Whenever I hear the joke. I cannot but laugh.
 ```
 
 > S + cannot be + too adj. + to Vr. => 做某事絕不會嫌太……
