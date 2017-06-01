@@ -2,8 +2,8 @@
 
 這篇文章中，我們將要來說明文法中的`名詞`，每一個句子基本上一定都有名詞，但一個不同種類的名詞，會影響到其它詞性的組成。名詞基本上可以分為以下兩大類。
 
-* `可數名詞` : 單數時不能單獨使用、要加冠詞。有複數。
-* `不可數名詞` : 沒有複數、無法冠上冠詞。
+* `可數名詞` : 單數時不能單獨使用要加冠詞。有複數。
+* `不可數名詞` : 沒有複數、不可加`a/an`。
 
 然後我們還可以根據性質又分成五種類型。
 
@@ -16,16 +16,23 @@
 接下來我們就要針對每種名詞，來進行詳細的說明。
 
 ## 不可數名詞用法
+不可數名詞的基本定義上面已經說過了，但我們這邊在複習一次，不可數名詞它`沒有複數並且無法加上 a/an`，基本上`食用之物`或`抽像名詞`這兩種類形的，都為不可數名詞。
 
-### 常見的不可數名詞
+* 食用之物: ex. water、rice (特例: noodles)
+* 抽象之物: ex. beauty、anger (特例: feeling、idea、thought、lie)
 
 
-|   weather     |  advice 建議        | work 工作  |
+以下是一些常見的不可數名詞。
+
+> `*`號為會搞混單字
+
+|   weather     |  advice 建議        | *work 工作 (可數用job)  |
 | :------------- |:-------------| :-----|
 |   traffic 交通    |     music 音樂     | fun 樂趣 |
-|   equipment 設備    |  laughter 笑        | behavior 行為 |
-|   stuff 東西    |    evidence 證據      | knowledge 知識 |
+|   *equipment 設備    |  laughter 笑        | behavior 行為 |
+|   stuff 東西    |    *evidence 證據      | knowledge 知識 |
 |   information 資訊   |    news 新聞      | exercise 運動  |
+
 
 
 另外一類大部份都為總稱、集合用法
@@ -34,11 +41,8 @@
 | :------------- |:-------------| :-----|
 |    advertising 廣告   |   clothing 衣服       | peasantry 農民 |
 |    machinery 機器   |    ancestry 祖先      | merchandise 商品 |
-|    furniture 家具   |     baggage 行李     | produce 農產品 |
+|    *furniture 家具   |     *baggage 行李     | produce 農產品 |
 
-### 不可數名詞前面不可以加 a(n)，但可以加 the
-
-### 不可數名詞沒有複數形
 
 ### 不可數名詞前面可以加上計量單位
 
@@ -450,3 +454,89 @@ compasses => 指南針
 > * clothing 為集合名詞，永遠單數，可用 much、little 修飾
 > * cloths 可以用 many cloths
 > * many (可數)、 much (不可數)
+
+## 連接詞配名詞的特殊用法
+
+### Each、Many a + N
+以上這兩種都視為`單數`，其中`many`與`many a`這個要注意一下。
+
+`many`與`many a`都是`很多`的意思，但是在使用上`many a`有強調多些`個別的`語氣，例如下面例句，在下面例句中還是一個重點要注意。
+
+* many 後的動詞要用複數的動詞。
+* many a 後的動詞則用單數動詞，因為它視為單數。
+
+```
+很多學生參加了抗議行動
+Many students join the protest.
+
+很多學生(一個接一個的)參加了抗議行動
+Many a student joins the protest.
+```
+
+### A and B
+單數時它視為一個整體，而複數時，視為個別分開來看的個體。如下例句(A)，它將`reading`與`exeerising`分開來看，所以使用複數表示。而例句(B)則將兩個視為整體(漫畫迷)，所以使用單數。
+
+```
+(A)運動與閱讀是我每天必做清單
+Exercising and reading are on my must-do list daily.
+
+(B)我最好的朋友與老公都是漫畫迷
+My best friend and my husband is a comic book freak.
+
+```
+
+### Both A and B 視為`複數`
+
+### 由B來決定是單複數形
+
+以下連接詞接連結的名詞由`B`來決定它的單複數形。
+
+* `either A or B` : 不是A就是B
+* `neither A nor B` : 不是A也不是B
+* `Not only A but also B` : 不只A還有B
+* `Not A but B` : 不是A而是B
+
+```
+不是那隻狗就是那些小孩要為凌亂的房間負責
+Either the dog or the kids are responsible for the mess in the living room.
+```
+
+### 由A來決定是單複數形
+以下連接詞連接的名詞由`A`來決定它的單複數形。
+
+* A, with B,
+* A, together with B,
+* A as well as B
+* A, along with B, : 與……在一起
+* A, couple with B, : 與…結合
+
+> 注意 : 以上除了`as well as`都要在a與b後加逗號。
+
+```
+電腦連同附件總共350元
+The computer, together with other accessories, comes down to 350 dollars.
+```
+### 量詞 + of + N 由N決定單複數形
+數量詞連用的名詞，由那個名詞，來決定單複數形。
+
+```
+半數的書都屬於政府的。
+Half of the books here belong to the gov.
+
+大量的購物被女管家完成。
+A great deal of the shopping is done by the housekeeper.
+```
+
+這邊注意，以下幾個比較特別，要記注。
+
+* `one、every one of + N` : 單數
+* `the number of + N` : 單數
+* `a number of + N(一些)` : 複數(=some)
+
+### There is/there are + N , 由N決定單複數形
+
+```
+There is a book.
+
+There are books.
+```
