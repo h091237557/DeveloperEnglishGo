@@ -132,4 +132,15 @@ I can usually find a solution whatever problems I run into.
 不論是誰清理了房間，都應該做得更好
 Whoever cleaned ths room needs to do a better job.
 ```
+## 由 that 引導的名詞子句不可放在介系詞的後面
+
+```
+他擔心他會在旅行前生病。
+(x) He is worried about that he may get sick before the trip.
+(o) He is worried about the fact that he may get sick before the trip.
+
+```
+
+
+
 
