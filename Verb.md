@@ -202,7 +202,9 @@ The math problem looks easy , I'm sure I can do it.
 使役動詞的意思，就是指叫人去做事情的動詞。
 
 
-> make / have / let + Vr/Ved
+> make / have / let + Vr 主動
+
+>  make / have / let + Ved 被動
 
 
 ```
